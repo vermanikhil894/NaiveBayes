@@ -14,3 +14,5 @@ mushroom.data -> https://archive.ics.uci.edu/ml/datasets/Mushroom
 letter-recognition.data -> https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
 breast-cancer-wisconsin.data -> https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
+Run below command to perform classification on the data:
+python3 NaiveBayes.py
